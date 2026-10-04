@@ -1,4 +1,4 @@
-# 🧠 Parkinson's Disease Voice Biomarker Detection System
+# 🧠 Parkinson's Disease Detection System
 
 A complete clinical decision-support and interactive predictive system for detecting **Parkinson's Disease (PD)** using biomedical acoustic measurements of sustained phonation.
 
